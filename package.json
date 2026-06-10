@@ -1,0 +1,6 @@
+{
+  "name": "sintered-stone-upscale-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server để upscale ảnh đá nung kết qua Replicate API",
+  "private": true
+}
